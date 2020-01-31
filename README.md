@@ -1,3 +1,3 @@
 
 # mynewrepo
-a respository create to learn connecting to github remotely.
+a respository create to learn connecting to Github remotely.
